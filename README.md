@@ -5,6 +5,7 @@
 
 ## Deployment
 Deployed on Vercel
+https://sammunat-landing-page-two.vercel.app/
 
 ## Features
 - Responsive landing page
