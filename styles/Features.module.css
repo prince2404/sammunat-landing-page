@@ -1,0 +1,27 @@
+.features {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  padding: 80px 40px;
+  background: #f9fafb;
+}
+
+.features div {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  width: 280px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+}
+
+.features h3 {
+  color: #2563eb;
+  margin-bottom: 12px;
+}
+
+.features p {
+  color: #6b7280;
+  font-size: 15px;
+}
+
